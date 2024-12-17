@@ -1,5 +1,3 @@
-# Iris2664's memo
-
 ## Memo list
 
 ### 2024
